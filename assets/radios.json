@@ -1,0 +1,117 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "92.7",
+      "tagline": "Pop World Hits!",
+      "color": "0xffa11431",
+      "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+      "url": "http://sc-bb.1.fm:8017/;",
+      "icon": "https://static2.mytuner.mobi/media/tvos_radios/pytnb3f7fwrj.jpg",
+      "image": "https://play-lh.googleusercontent.com/zWXih1je17LhskElV-vhePIZt2Y-ITOBnew2lY5sx-njXutzQNyXOzx82z-nPhvQ8dA",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "98.3",
+      "tagline": "Rocking All The Way!",
+      "color": "0xff221420",
+      "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+      "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+      "icon": "https://static2.mytuner.mobi/media/tvos_radios/l68cg9zddt3d.jpeg",
+      "image": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cm9jayUyMG11c2ljfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "lang": "Hindi",
+      "disliked": false,
+      "category": "rock",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "102",
+      "tagline": "Play On The Hip-Hop Vibes!",
+      "color": "0xff04080b",
+      "desc": "Playing music regularly will physically alter your brain structure.",
+      "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+      "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+      "image": "https://ucsdguardian.org/wp-content/uploads/2019/01/kanye-unfortunately-752x440.jpg",
+      "lang": "English",
+      "disliked": false,
+      "category": "hip-hop",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "104",
+      "tagline": "English Hits",
+      "color": "0xff066c53",
+      "desc": "",
+      "url": "http://108.61.34.50:7094/stream",
+      "icon": "https://radiosindia.com/images/foxfm.jpg",
+      "image": "https://www.top1music.net/wp-content/uploads/2018/09/top-1-rap-hip-hop-best-rap.jpg",
+      "lang": "English",
+      "category": "hip-hop",
+      "disliked": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "95",
+      "tagline": "London UK Asian Music",
+      "color": "0xff0d487d",
+      "desc": "",
+      "url": "http://icy-e-01-cr.sharp-stream.com/1458.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+      "image": "https://www.liveabout.com/thmb/NrtxYmTCoMFpYAFzqwZ3G0p2pw4=/3478x3478/smart/filters:no_upscale()/musicians-playing-in-jazz-band-on-stage-149615583-599f5812054ad90011df8534.jpg",
+      "lang": "English",
+      "category": "jazz",
+      "disliked": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "94",
+      "tagline": "Today's Hits",
+      "color": "0xff27383e",
+      "desc": "",
+      "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_M0n8SGBy0-NlOmXD6HNAYtfsTPEI-alRPA&usqp=CAU",
+      "lang": "English",
+      "category": "rock",
+      "disliked": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "93",
+      "tagline": "Love Songs",
+      "color": "0xffa06a37",
+      "desc": "The brain responds to music the same way it responds to something that you eat.",
+      "url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+      "image": "https://i.scdn.co/image/ab67706c0000bebbc0e2251d198bafb4d7a35208",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "107",
+      "tagline": "Rocking Retro Hits",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Classic_music.jpg",
+      "lang": "Hindi",
+      "category": "classic",
+      "disliked": false,
+      "order": 8
+    }
+  ]
+
+}
